@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldenfinix68&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
 
-  <img width='50%' height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldenfinix68&layout=donut&hide_border=true&theme=tokyonight" />
+  <img width='50%' height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldenfinix68&layout=donut&hide_border=true&theme=tokyonight&langs_count=8" />
   <img src="https://github-profile-trophy.vercel.app/?username=goldenfinix68&theme=tokyonight&no-frame=true&column=3&row=2" height="250" alt="@goldenfinix's trophy stats"/>
 </p>
 
